@@ -1,0 +1,9 @@
+{
+  "name": "FunPlay",
+  "version": "1.2.0",
+  "title": "Fun Play",
+  "factorio_version": "1.1",
+  "author": "TrojanSP3",
+  "dependencies": ["base >= 1.1.0"],
+  "description": "Some fun stuff"
+}
